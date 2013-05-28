@@ -1,0 +1,41 @@
+tableExample1:
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      autoincrement: true
+    field1:
+      type: text
+    field2:
+      type: text
+    choice:
+      type: enum
+      values: [value1, value2, value3]
+
+tableExample2:
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      autoincrement: true
+    field1:
+      type: text
+    field2:
+      type: text
+    choice:
+      type: enum
+      values: [value1, value2, value3]
+
+tableExample3:
+  columns:
+    id:
+      type: integer(4)
+      primary: true
+      autoincrement: true
+    field1:
+      type: text
+    field2:
+      type: text
+    choice:
+      type: enum
+      values: [value1, value2, value3]
