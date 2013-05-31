@@ -1,0 +1,6 @@
+[submodule "plugins/mdBasicPlugin"]
+	path = plugins/mdBasicPlugin
+	url = git@github.com:mastodonte/mdBasicPlugin.git
+[submodule "plugins/sfDoctrineGuardPlugin"]
+	path = plugins/sfDoctrineGuardPlugin
+	url = git@github.com:mastodonte/sfDoctrineGuardPlugin.git

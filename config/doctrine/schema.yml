@@ -25,6 +25,18 @@ tableExample2:
     choice:
       type: enum
       values: [value1, value2, value3]
+    multichoice:
+      type: enum
+      values: [value1, value2, value3]
+    imagen:
+      type: string(100)
+    checkbox:
+      type: boolean
+      default: true
+    radio:
+      type: enum
+      values: [value1, value2, value3]
+
 
 tableExample3:
   columns:
